@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(ls -l | awk -F " " '{print $9}')
+ls -l | awk -F " " '{print $9}'
