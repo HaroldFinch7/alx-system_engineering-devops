@@ -1,1 +1,1 @@
-sys eng devops
+this repository is designed to write scripts
